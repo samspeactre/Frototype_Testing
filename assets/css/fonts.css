@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "ClashDisplay";
+  src: url("../fonts/ClashDisplay-Variable.woff2") format("woff2");
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Circular-Std";
+  src: url("../fonts/circular-std-medium-500.woff2") format("woff2");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 500;
+}
